@@ -17,8 +17,6 @@ d:\.NET\InvenFlow-MVC\obj\Debug\net9.0\InvenFlow-MVC.RazorAssemblyInfo.cs
 d:\.NET\InvenFlow-MVC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 d:\.NET\InvenFlow-MVC\obj\Debug\net9.0\scopedcss\bundle\InvenFlow-MVC.styles.css
 d:\.NET\InvenFlow-MVC\obj\Debug\net9.0\scopedcss\projectbundle\InvenFlow-MVC.bundle.scp.css
-d:\.NET\InvenFlow-MVC\obj\Debug\net9.0\compressed\glpbpa8c64-b9sayid5wm.gz
-d:\.NET\InvenFlow-MVC\obj\Debug\net9.0\compressed\ino7ec7xt2-61n19gt1b8.gz
 d:\.NET\InvenFlow-MVC\obj\Debug\net9.0\compressed\zqs2t09aaf-xtxxf3hu2r.gz
 d:\.NET\InvenFlow-MVC\obj\Debug\net9.0\compressed\pb9qzmqiau-bqjiyaj88i.gz
 d:\.NET\InvenFlow-MVC\obj\Debug\net9.0\compressed\bwvjx522lm-c2jlpeoesf.gz
@@ -95,3 +93,5 @@ d:\.NET\InvenFlow-MVC\obj\Debug\net9.0\refint\InvenFlow-MVC.dll
 d:\.NET\InvenFlow-MVC\obj\Debug\net9.0\InvenFlow-MVC.pdb
 d:\.NET\InvenFlow-MVC\obj\Debug\net9.0\InvenFlow-MVC.genruntimeconfig.cache
 d:\.NET\InvenFlow-MVC\obj\Debug\net9.0\ref\InvenFlow-MVC.dll
+D:\.NET\InvenFlow-MVC\obj\Debug\net9.0\InvenFlow-MVC.sourcelink.json
+D:\.NET\InvenFlow-MVC\obj\Debug\net9.0\compressed\glpbpa8c64-b2y9g47ai4.gz

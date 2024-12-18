@@ -5,12 +5,40 @@
       "PackagePath": "staticwebassets\\InvenFlow-MVC.bhino0zyy4.bundle.scp.css"
     },
     {
-      "Id": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\Airpods-Head.png",
+      "PackagePath": "staticwebassets\\asserts\\imgs\\Airpods-Head.png"
     },
     {
-      "Id": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\Airpods-max.png",
+      "PackagePath": "staticwebassets\\asserts\\imgs\\Airpods-max.png"
+    },
+    {
+      "Id": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\chair.png",
+      "PackagePath": "staticwebassets\\asserts\\imgs\\chair.png"
+    },
+    {
+      "Id": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\gaming-head.png",
+      "PackagePath": "staticwebassets\\asserts\\imgs\\gaming-head.png"
+    },
+    {
+      "Id": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\hero.jpg",
+      "PackagePath": "staticwebassets\\asserts\\imgs\\hero.jpg"
+    },
+    {
+      "Id": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\keyboard.png",
+      "PackagePath": "staticwebassets\\asserts\\imgs\\keyboard.png"
+    },
+    {
+      "Id": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\monitor.png",
+      "PackagePath": "staticwebassets\\asserts\\imgs\\monitor.png"
+    },
+    {
+      "Id": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\tab.png",
+      "PackagePath": "staticwebassets\\asserts\\imgs\\tab.png"
+    },
+    {
+      "Id": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\js\\site.js",
