@@ -28,21 +28,20 @@
                             <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-white" asp-area="" asp-controller="Home"
-                                asp-action="Privacy">Privacy</a>
-                        </li>
-                        <li class="nav-item">
                             <a class="nav-link text-white" asp-area="" asp-controller="Items"
                                 asp-action="Index">Items</a>
                         </li>
-                        @* <div class="container-fluid"> *@
-                        @*     <form class="d-flex" role="search"> *@
-                        @*         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"> *@
-                        @*         <button class="btn btn-outline-success" type="submit">Search</button> *@
-                        @*     </form> *@
-                        @* </div> *@
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-controller="Home"
+                                asp-action="Privacy">Privacy</a>
+                        </li>
                     </ul>
                 </div>
+                <button type="button" class="btn btn-primary me-2">SignUp</button>
+                <form class="d-flex" role="search">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success" type="submit">Search</button>
+                </form>
             </div>
         </nav>
     </header>
@@ -52,7 +51,6 @@
             @RenderBody()
         </main>
     </div>
-
 
     <footer class="py-5 container">
         <div class="row">
@@ -86,7 +84,7 @@
                     </li>
                     <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-light">143 Main St,
                             California USA</a></li>
-                    <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-light">Privacy
+                    <li class="nav-item mb-2"><a href="Privacy" class="nav-link p-0 text-light">Privacy
                             Policy</a></li>
                     <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-light">Terms of
                             Service</a></li>

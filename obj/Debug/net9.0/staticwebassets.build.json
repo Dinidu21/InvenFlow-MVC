@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ws6/z77TMfjhskmT3kDk8rm4YrZ19Ct0fsDE+HX+TjU=",
+  "Hash": "im2Qkh0JmW59/l3Nw2VPPizxZdpheU9iXczFiB98QAg=",
   "Source": "InvenFlow-MVC",
   "BasePath": "_content/InvenFlow-MVC",
   "Mode": "Default",
@@ -626,12 +626,12 @@
       "OriginalItemSpec": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\.NET\\InvenFlow-MVC\\obj\\Debug\\net9.0\\compressed\\glpbpa8c64-b2y9g47ai4.gz",
+      "Identity": "D:\\.NET\\InvenFlow-MVC\\obj\\Debug\\net9.0\\compressed\\glpbpa8c64-n7yd3hq2qx.gz",
       "SourceId": "InvenFlow-MVC",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NET\\InvenFlow-MVC\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/InvenFlow-MVC",
-      "RelativePath": "css/site#[.{fingerprint=b2y9g47ai4}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=n7yd3hq2qx}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -640,8 +640,8 @@
       "RelatedAsset": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "9g98jl15wb",
-      "Integrity": "J2cRrx/irdXd2UdQH5MLIDACBW8AevMetgfgVQu1I6k=",
+      "Fingerprint": "ke1l3rvmgh",
+      "Integrity": "pGZ04vG1OZ6AV/PUB55BtHDNMBLBaMu65LXiEuWrFYU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\css\\site.css"
@@ -1564,8 +1564,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b2y9g47ai4",
-      "Integrity": "s6SV/3dlJFAj6YSxxPtV4CUSckNS8muRaUAdftrE8oo=",
+      "Fingerprint": "n7yd3hq2qx",
+      "Integrity": "jSpCvyMxERLuV+U4z92kRz658rtqJr8bdBIaZGFO+LM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -3510,13 +3510,13 @@
       ]
     },
     {
-      "Route": "css/site.b2y9g47ai4.css",
-      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\obj\\Debug\\net9.0\\compressed\\glpbpa8c64-b2y9g47ai4.gz",
+      "Route": "css/site.css",
+      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\obj\\Debug\\net9.0\\compressed\\glpbpa8c64-n7yd3hq2qx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001908396947"
+          "Quality": "0.001569858713"
         }
       ],
       "ResponseHeaders": [
@@ -3526,19 +3526,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "523"
+          "Value": "636"
         },
         {
           "Name": "ETag",
-          "Value": "\"J2cRrx/irdXd2UdQH5MLIDACBW8AevMetgfgVQu1I6k=\""
+          "Value": "\"pGZ04vG1OZ6AV/PUB55BtHDNMBLBaMu65LXiEuWrFYU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 16:23:18 GMT"
+          "Value": "Sat, 21 Dec 2024 16:28:53 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -3554,26 +3554,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"s6SV/3dlJFAj6YSxxPtV4CUSckNS8muRaUAdftrE8oo=\""
+          "Value": "W/\"jSpCvyMxERLuV+U4z92kRz658rtqJr8bdBIaZGFO+LM=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "b2y9g47ai4"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-s6SV/3dlJFAj6YSxxPtV4CUSckNS8muRaUAdftrE8oo="
+          "Value": "sha256-jSpCvyMxERLuV+U4z92kRz658rtqJr8bdBIaZGFO+LM="
         }
       ]
     },
     {
-      "Route": "css/site.b2y9g47ai4.css",
+      "Route": "css/site.css",
       "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3583,7 +3575,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1243"
+          "Value": "1523"
         },
         {
           "Name": "Content-Type",
@@ -3591,11 +3583,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"s6SV/3dlJFAj6YSxxPtV4CUSckNS8muRaUAdftrE8oo=\""
+          "Value": "\"jSpCvyMxERLuV+U4z92kRz658rtqJr8bdBIaZGFO+LM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 16:23:18 GMT"
+          "Value": "Sat, 21 Dec 2024 16:28:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jSpCvyMxERLuV+U4z92kRz658rtqJr8bdBIaZGFO+LM="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\obj\\Debug\\net9.0\\compressed\\glpbpa8c64-n7yd3hq2qx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pGZ04vG1OZ6AV/PUB55BtHDNMBLBaMu65LXiEuWrFYU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 16:28:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pGZ04vG1OZ6AV/PUB55BtHDNMBLBaMu65LXiEuWrFYU="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.n7yd3hq2qx.css",
+      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\obj\\Debug\\net9.0\\compressed\\glpbpa8c64-n7yd3hq2qx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001569858713"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "636"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pGZ04vG1OZ6AV/PUB55BtHDNMBLBaMu65LXiEuWrFYU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 16:28:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"jSpCvyMxERLuV+U4z92kRz658rtqJr8bdBIaZGFO+LM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n7yd3hq2qx"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jSpCvyMxERLuV+U4z92kRz658rtqJr8bdBIaZGFO+LM="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.n7yd3hq2qx.css",
+      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1523"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jSpCvyMxERLuV+U4z92kRz658rtqJr8bdBIaZGFO+LM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Dec 2024 16:28:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3605,7 +3742,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b2y9g47ai4"
+          "Value": "n7yd3hq2qx"
         },
         {
           "Name": "label",
@@ -3613,13 +3750,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-s6SV/3dlJFAj6YSxxPtV4CUSckNS8muRaUAdftrE8oo="
+          "Value": "sha256-jSpCvyMxERLuV+U4z92kRz658rtqJr8bdBIaZGFO+LM="
         }
       ]
     },
     {
-      "Route": "css/site.b2y9g47ai4.css.gz",
-      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\obj\\Debug\\net9.0\\compressed\\glpbpa8c64-b2y9g47ai4.gz",
+      "Route": "css/site.n7yd3hq2qx.css.gz",
+      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\obj\\Debug\\net9.0\\compressed\\glpbpa8c64-n7yd3hq2qx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3628,7 +3765,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "523"
+          "Value": "636"
         },
         {
           "Name": "Content-Type",
@@ -3636,11 +3773,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"J2cRrx/irdXd2UdQH5MLIDACBW8AevMetgfgVQu1I6k=\""
+          "Value": "\"pGZ04vG1OZ6AV/PUB55BtHDNMBLBaMu65LXiEuWrFYU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 16:23:18 GMT"
+          "Value": "Sat, 21 Dec 2024 16:28:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3658,7 +3795,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b2y9g47ai4"
+          "Value": "n7yd3hq2qx"
         },
         {
           "Name": "label",
@@ -3666,144 +3803,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-J2cRrx/irdXd2UdQH5MLIDACBW8AevMetgfgVQu1I6k="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\obj\\Debug\\net9.0\\compressed\\glpbpa8c64-b2y9g47ai4.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001908396947"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "523"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"J2cRrx/irdXd2UdQH5MLIDACBW8AevMetgfgVQu1I6k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 16:23:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"s6SV/3dlJFAj6YSxxPtV4CUSckNS8muRaUAdftrE8oo=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-s6SV/3dlJFAj6YSxxPtV4CUSckNS8muRaUAdftrE8oo="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1243"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"s6SV/3dlJFAj6YSxxPtV4CUSckNS8muRaUAdftrE8oo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 16:23:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-s6SV/3dlJFAj6YSxxPtV4CUSckNS8muRaUAdftrE8oo="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\obj\\Debug\\net9.0\\compressed\\glpbpa8c64-b2y9g47ai4.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "523"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"J2cRrx/irdXd2UdQH5MLIDACBW8AevMetgfgVQu1I6k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 16:23:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-J2cRrx/irdXd2UdQH5MLIDACBW8AevMetgfgVQu1I6k="
+          "Value": "sha256-pGZ04vG1OZ6AV/PUB55BtHDNMBLBaMu65LXiEuWrFYU="
         }
       ]
     },

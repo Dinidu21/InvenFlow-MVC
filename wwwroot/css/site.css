@@ -59,4 +59,30 @@ box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   transform: translateY(-10px);
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  border-color: dodgerblue;
+}
+
+.nav-item:hover {
+  text-decoration: underline;
+}
+
+.btn:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+
+.btn:active:focus, .btn:target:focus {
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+
+.main-heading {
+  text-align: center;
+  font-size: 2.1em;
+  word-break: break-all;  
+  background: radial-gradient(circle, rgba(55,33,171,1) 6%, rgba(63,94,251,1) 28%, rgba(53,99,181,1) 89%);
+  -webkit-background-clip: text;
+  color: transparent;
+  font-family: 'Poppins';
 }
