@@ -1,18 +1,19 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace InvenFlow_MVC.Controllers;
-
-public class ItemsController : Controller
+namespace InvenFlow_MVC.Controllers
 {
-    // GET :/Item
-    public IActionResult Index()
+    public class ItemsController : Controller
     {
-        return View();
-    }
+        // GET: /Items
+        public IActionResult Index()
+        {
+            return View();
+        }
 
-    // GET : Item/Welcome
-    public string Welcome()
-    {
-        return "This is the Welcome action method";
+        // GET: Items/Welcome
+        public string Welcome()
+        {
+            return "This is the Welcome action method";
+        }
     }
 }
