@@ -1,112 +1,112 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/imgs/Airpods-Head.fqfesksuto.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\imgs\Airpods-Head.png'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/images/Airpods-Head.fqfesksuto.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\images\Airpods-Head.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fqfesksuto"},{"Name":"integrity","Value":"sha256-2QyVI\u002BwIv\u002BmBLk0E8gdEFsbtOG/gEzNcocF1hvaRQZE="},{"Name":"label","Value":"_content/InvenFlow-MVC/asserts/imgs/Airpods-Head.png"}]]]></EndpointProperties>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fqfesksuto"},{"Name":"integrity","Value":"sha256-2QyVI\u002BwIv\u002BmBLk0E8gdEFsbtOG/gEzNcocF1hvaRQZE="},{"Name":"label","Value":"_content/InvenFlow-MVC/asserts/images/Airpods-Head.png"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"253098"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00222QyVI\u002BwIv\u002BmBLk0E8gdEFsbtOG/gEzNcocF1hvaRQZE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 14:24:58 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/imgs/Airpods-Head.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\imgs\Airpods-Head.png'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/images/Airpods-Head.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\images\Airpods-Head.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2QyVI\u002BwIv\u002BmBLk0E8gdEFsbtOG/gEzNcocF1hvaRQZE="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"253098"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00222QyVI\u002BwIv\u002BmBLk0E8gdEFsbtOG/gEzNcocF1hvaRQZE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 14:24:58 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/imgs/Airpods-max.l1qpoy3gwy.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\imgs\Airpods-max.png'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/images/Airpods-max.l1qpoy3gwy.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\images\Airpods-max.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l1qpoy3gwy"},{"Name":"integrity","Value":"sha256-559z96knUniEdBoEgtA6dHGzhUXnP0PTdpWqtDi2u\u002BY="},{"Name":"label","Value":"_content/InvenFlow-MVC/asserts/imgs/Airpods-max.png"}]]]></EndpointProperties>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l1qpoy3gwy"},{"Name":"integrity","Value":"sha256-559z96knUniEdBoEgtA6dHGzhUXnP0PTdpWqtDi2u\u002BY="},{"Name":"label","Value":"_content/InvenFlow-MVC/asserts/images/Airpods-max.png"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"87656"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022559z96knUniEdBoEgtA6dHGzhUXnP0PTdpWqtDi2u\u002BY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 14:24:58 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/imgs/Airpods-max.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\imgs\Airpods-max.png'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/images/Airpods-max.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\images\Airpods-max.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-559z96knUniEdBoEgtA6dHGzhUXnP0PTdpWqtDi2u\u002BY="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"87656"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022559z96knUniEdBoEgtA6dHGzhUXnP0PTdpWqtDi2u\u002BY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 14:24:58 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/imgs/chair.lyd5fcaki4.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\imgs\chair.png'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/images/chair.lyd5fcaki4.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\images\chair.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lyd5fcaki4"},{"Name":"integrity","Value":"sha256-E2um4FmAYXnWgERvVezI/ngC8GCZ/xLNEsK\u002BpFax11U="},{"Name":"label","Value":"_content/InvenFlow-MVC/asserts/imgs/chair.png"}]]]></EndpointProperties>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lyd5fcaki4"},{"Name":"integrity","Value":"sha256-E2um4FmAYXnWgERvVezI/ngC8GCZ/xLNEsK\u002BpFax11U="},{"Name":"label","Value":"_content/InvenFlow-MVC/asserts/images/chair.png"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"57661"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022E2um4FmAYXnWgERvVezI/ngC8GCZ/xLNEsK\u002BpFax11U=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 14:50:41 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/imgs/chair.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\imgs\chair.png'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/images/chair.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\images\chair.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-E2um4FmAYXnWgERvVezI/ngC8GCZ/xLNEsK\u002BpFax11U="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"57661"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022E2um4FmAYXnWgERvVezI/ngC8GCZ/xLNEsK\u002BpFax11U=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 14:50:41 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/imgs/gaming-head.frp5ae291e.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\imgs\gaming-head.png'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/images/gaming-head.frp5ae291e.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\images\gaming-head.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"frp5ae291e"},{"Name":"integrity","Value":"sha256-q7OwpzOUKU1eTchQU/70z51Wgser19l3F6ti7yJBrMA="},{"Name":"label","Value":"_content/InvenFlow-MVC/asserts/imgs/gaming-head.png"}]]]></EndpointProperties>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"frp5ae291e"},{"Name":"integrity","Value":"sha256-q7OwpzOUKU1eTchQU/70z51Wgser19l3F6ti7yJBrMA="},{"Name":"label","Value":"_content/InvenFlow-MVC/asserts/images/gaming-head.png"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"38733"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022q7OwpzOUKU1eTchQU/70z51Wgser19l3F6ti7yJBrMA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 14:36:45 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/imgs/gaming-head.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\imgs\gaming-head.png'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/images/gaming-head.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\images\gaming-head.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-q7OwpzOUKU1eTchQU/70z51Wgser19l3F6ti7yJBrMA="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"38733"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022q7OwpzOUKU1eTchQU/70z51Wgser19l3F6ti7yJBrMA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 14:36:45 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/imgs/hero.3dwaxrw8ml.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\imgs\hero.jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/images/hero.3dwaxrw8ml.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\images\hero.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3dwaxrw8ml"},{"Name":"integrity","Value":"sha256-V8\u002ByIokvSCdg7KYKdKlfafUJy0LYdYO22Xnh77yrxHs="},{"Name":"label","Value":"_content/InvenFlow-MVC/asserts/imgs/hero.jpg"}]]]></EndpointProperties>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3dwaxrw8ml"},{"Name":"integrity","Value":"sha256-V8\u002ByIokvSCdg7KYKdKlfafUJy0LYdYO22Xnh77yrxHs="},{"Name":"label","Value":"_content/InvenFlow-MVC/asserts/images/hero.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"387104"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022V8\u002ByIokvSCdg7KYKdKlfafUJy0LYdYO22Xnh77yrxHs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 18:21:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/imgs/hero.jpg">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\imgs\hero.jpg'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/images/hero.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\images\hero.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-V8\u002ByIokvSCdg7KYKdKlfafUJy0LYdYO22Xnh77yrxHs="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"387104"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022V8\u002ByIokvSCdg7KYKdKlfafUJy0LYdYO22Xnh77yrxHs=\u0022"},{"Name":"Last-Modified","Value":"Fri, 13 Dec 2024 18:21:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/imgs/keyboard.ge34wzjtvg.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\imgs\keyboard.png'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/images/keyboard.ge34wzjtvg.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\images\keyboard.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ge34wzjtvg"},{"Name":"integrity","Value":"sha256-yBkqMN7VYGT\u002Boi6FHGZkjmSuVeNy5JfZ4OJhVgiYkbw="},{"Name":"label","Value":"_content/InvenFlow-MVC/asserts/imgs/keyboard.png"}]]]></EndpointProperties>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ge34wzjtvg"},{"Name":"integrity","Value":"sha256-yBkqMN7VYGT\u002Boi6FHGZkjmSuVeNy5JfZ4OJhVgiYkbw="},{"Name":"label","Value":"_content/InvenFlow-MVC/asserts/images/keyboard.png"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"84183"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022yBkqMN7VYGT\u002Boi6FHGZkjmSuVeNy5JfZ4OJhVgiYkbw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 14:38:52 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/imgs/keyboard.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\imgs\keyboard.png'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/images/keyboard.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\images\keyboard.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yBkqMN7VYGT\u002Boi6FHGZkjmSuVeNy5JfZ4OJhVgiYkbw="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"84183"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022yBkqMN7VYGT\u002Boi6FHGZkjmSuVeNy5JfZ4OJhVgiYkbw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 14:38:52 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/imgs/monitor.pf3h8q72vj.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\imgs\monitor.png'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/images/monitor.pf3h8q72vj.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\images\monitor.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pf3h8q72vj"},{"Name":"integrity","Value":"sha256-pcu\u002BvRzHs0cTWx6CDkGoD7iD1ojtRCwvkibVozwUFXQ="},{"Name":"label","Value":"_content/InvenFlow-MVC/asserts/imgs/monitor.png"}]]]></EndpointProperties>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pf3h8q72vj"},{"Name":"integrity","Value":"sha256-pcu\u002BvRzHs0cTWx6CDkGoD7iD1ojtRCwvkibVozwUFXQ="},{"Name":"label","Value":"_content/InvenFlow-MVC/asserts/images/monitor.png"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"80954"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022pcu\u002BvRzHs0cTWx6CDkGoD7iD1ojtRCwvkibVozwUFXQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 14:52:04 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/imgs/monitor.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\imgs\monitor.png'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/images/monitor.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\images\monitor.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pcu\u002BvRzHs0cTWx6CDkGoD7iD1ojtRCwvkibVozwUFXQ="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"80954"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022pcu\u002BvRzHs0cTWx6CDkGoD7iD1ojtRCwvkibVozwUFXQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 14:52:04 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/imgs/tab.bqia65hxxt.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\imgs\tab.png'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/images/tab.bqia65hxxt.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\images\tab.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bqia65hxxt"},{"Name":"integrity","Value":"sha256-rTgeSdKnAq20iy0l/03VFSIZugJQ/osZpDTmkgI8dZY="},{"Name":"label","Value":"_content/InvenFlow-MVC/asserts/imgs/tab.png"}]]]></EndpointProperties>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bqia65hxxt"},{"Name":"integrity","Value":"sha256-rTgeSdKnAq20iy0l/03VFSIZugJQ/osZpDTmkgI8dZY="},{"Name":"label","Value":"_content/InvenFlow-MVC/asserts/images/tab.png"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"117754"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022rTgeSdKnAq20iy0l/03VFSIZugJQ/osZpDTmkgI8dZY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 15:19:04 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/imgs/tab.png">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\imgs\tab.png'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/asserts/images/tab.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\asserts\images\tab.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rTgeSdKnAq20iy0l/03VFSIZugJQ/osZpDTmkgI8dZY="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"117754"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022rTgeSdKnAq20iy0l/03VFSIZugJQ/osZpDTmkgI8dZY=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 15:19:04 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/css/site.64j3yt30wn.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"64j3yt30wn"},{"Name":"integrity","Value":"sha256-elYorTLK6ef6P6Uq/Ua3KT/tthKs9hXNzCE2QHv0UEs="},{"Name":"label","Value":"_content/InvenFlow-MVC/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2273"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022elYorTLK6ef6P6Uq/Ua3KT/tthKs9hXNzCE2QHv0UEs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 23 Dec 2024 05:06:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jSpCvyMxERLuV\u002BU4z92kRz658rtqJr8bdBIaZGFO\u002BLM="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1523"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022jSpCvyMxERLuV\u002BU4z92kRz658rtqJr8bdBIaZGFO\u002BLM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 21 Dec 2024 16:28:53 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/css/site.n7yd3hq2qx.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"n7yd3hq2qx"},{"Name":"integrity","Value":"sha256-jSpCvyMxERLuV\u002BU4z92kRz658rtqJr8bdBIaZGFO\u002BLM="},{"Name":"label","Value":"_content/InvenFlow-MVC/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1523"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022jSpCvyMxERLuV\u002BU4z92kRz658rtqJr8bdBIaZGFO\u002BLM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 21 Dec 2024 16:28:53 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-elYorTLK6ef6P6Uq/Ua3KT/tthKs9hXNzCE2QHv0UEs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2273"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022elYorTLK6ef6P6Uq/Ua3KT/tthKs9hXNzCE2QHv0UEs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 23 Dec 2024 05:06:05 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/InvenFlow-MVC/InvenFlow-MVC.bhino0zyy4.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\InvenFlow-MVC.bhino0zyy4.bundle.scp.css'))</AssetFile>

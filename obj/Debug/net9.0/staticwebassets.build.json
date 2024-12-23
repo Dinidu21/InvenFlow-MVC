@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "im2Qkh0JmW59/l3Nw2VPPizxZdpheU9iXczFiB98QAg=",
+  "Hash": "Y7j+kyKOxokUegWg4fzoAId/SWXWQhxeyS87U+wlCQo=",
   "Source": "InvenFlow-MVC",
   "BasePath": "_content/InvenFlow-MVC",
   "Mode": "Default",
@@ -626,12 +626,12 @@
       "OriginalItemSpec": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\.NET\\InvenFlow-MVC\\obj\\Debug\\net9.0\\compressed\\glpbpa8c64-n7yd3hq2qx.gz",
+      "Identity": "D:\\.NET\\InvenFlow-MVC\\obj\\Debug\\net9.0\\compressed\\glpbpa8c64-64j3yt30wn.gz",
       "SourceId": "InvenFlow-MVC",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NET\\InvenFlow-MVC\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/InvenFlow-MVC",
-      "RelativePath": "css/site#[.{fingerprint=n7yd3hq2qx}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=64j3yt30wn}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -640,8 +640,8 @@
       "RelatedAsset": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ke1l3rvmgh",
-      "Integrity": "pGZ04vG1OZ6AV/PUB55BtHDNMBLBaMu65LXiEuWrFYU=",
+      "Fingerprint": "84gla4fwgt",
+      "Integrity": "KPHnmJclYUPDtYekO1X1JzEbgij3H4rflTKtOslc7cg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\css\\site.css"
@@ -1382,12 +1382,12 @@
       "OriginalItemSpec": "D:\\.NET\\InvenFlow-MVC\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\InvenFlow-MVC.bundle.scp.css"
     },
     {
-      "Identity": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\Airpods-Head.png",
+      "Identity": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\images\\Airpods-Head.png",
       "SourceId": "InvenFlow-MVC",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\",
       "BasePath": "_content/InvenFlow-MVC",
-      "RelativePath": "asserts/imgs/Airpods-Head#[.{fingerprint}]?.png",
+      "RelativePath": "asserts/images/Airpods-Head#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1400,15 +1400,15 @@
       "Integrity": "2QyVI+wIv+mBLk0E8gdEFsbtOG/gEzNcocF1hvaRQZE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\asserts\\imgs\\Airpods-Head.png"
+      "OriginalItemSpec": "wwwroot\\asserts\\images\\Airpods-Head.png"
     },
     {
-      "Identity": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\Airpods-max.png",
+      "Identity": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\images\\Airpods-max.png",
       "SourceId": "InvenFlow-MVC",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\",
       "BasePath": "_content/InvenFlow-MVC",
-      "RelativePath": "asserts/imgs/Airpods-max#[.{fingerprint}]?.png",
+      "RelativePath": "asserts/images/Airpods-max#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1421,15 +1421,15 @@
       "Integrity": "559z96knUniEdBoEgtA6dHGzhUXnP0PTdpWqtDi2u+Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\asserts\\imgs\\Airpods-max.png"
+      "OriginalItemSpec": "wwwroot\\asserts\\images\\Airpods-max.png"
     },
     {
-      "Identity": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\chair.png",
+      "Identity": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\images\\chair.png",
       "SourceId": "InvenFlow-MVC",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\",
       "BasePath": "_content/InvenFlow-MVC",
-      "RelativePath": "asserts/imgs/chair#[.{fingerprint}]?.png",
+      "RelativePath": "asserts/images/chair#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1442,15 +1442,15 @@
       "Integrity": "E2um4FmAYXnWgERvVezI/ngC8GCZ/xLNEsK+pFax11U=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\asserts\\imgs\\chair.png"
+      "OriginalItemSpec": "wwwroot\\asserts\\images\\chair.png"
     },
     {
-      "Identity": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\gaming-head.png",
+      "Identity": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\images\\gaming-head.png",
       "SourceId": "InvenFlow-MVC",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\",
       "BasePath": "_content/InvenFlow-MVC",
-      "RelativePath": "asserts/imgs/gaming-head#[.{fingerprint}]?.png",
+      "RelativePath": "asserts/images/gaming-head#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1463,15 +1463,15 @@
       "Integrity": "q7OwpzOUKU1eTchQU/70z51Wgser19l3F6ti7yJBrMA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\asserts\\imgs\\gaming-head.png"
+      "OriginalItemSpec": "wwwroot\\asserts\\images\\gaming-head.png"
     },
     {
-      "Identity": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\hero.jpg",
+      "Identity": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\images\\hero.jpg",
       "SourceId": "InvenFlow-MVC",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\",
       "BasePath": "_content/InvenFlow-MVC",
-      "RelativePath": "asserts/imgs/hero#[.{fingerprint}]?.jpg",
+      "RelativePath": "asserts/images/hero#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1484,15 +1484,15 @@
       "Integrity": "V8+yIokvSCdg7KYKdKlfafUJy0LYdYO22Xnh77yrxHs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\asserts\\imgs\\hero.jpg"
+      "OriginalItemSpec": "wwwroot\\asserts\\images\\hero.jpg"
     },
     {
-      "Identity": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\keyboard.png",
+      "Identity": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\images\\keyboard.png",
       "SourceId": "InvenFlow-MVC",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\",
       "BasePath": "_content/InvenFlow-MVC",
-      "RelativePath": "asserts/imgs/keyboard#[.{fingerprint}]?.png",
+      "RelativePath": "asserts/images/keyboard#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1505,15 +1505,15 @@
       "Integrity": "yBkqMN7VYGT+oi6FHGZkjmSuVeNy5JfZ4OJhVgiYkbw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\asserts\\imgs\\keyboard.png"
+      "OriginalItemSpec": "wwwroot\\asserts\\images\\keyboard.png"
     },
     {
-      "Identity": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\monitor.png",
+      "Identity": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\images\\monitor.png",
       "SourceId": "InvenFlow-MVC",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\",
       "BasePath": "_content/InvenFlow-MVC",
-      "RelativePath": "asserts/imgs/monitor#[.{fingerprint}]?.png",
+      "RelativePath": "asserts/images/monitor#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1526,15 +1526,15 @@
       "Integrity": "pcu+vRzHs0cTWx6CDkGoD7iD1ojtRCwvkibVozwUFXQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\asserts\\imgs\\monitor.png"
+      "OriginalItemSpec": "wwwroot\\asserts\\images\\monitor.png"
     },
     {
-      "Identity": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\tab.png",
+      "Identity": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\images\\tab.png",
       "SourceId": "InvenFlow-MVC",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\",
       "BasePath": "_content/InvenFlow-MVC",
-      "RelativePath": "asserts/imgs/tab#[.{fingerprint}]?.png",
+      "RelativePath": "asserts/images/tab#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1547,7 +1547,7 @@
       "Integrity": "rTgeSdKnAq20iy0l/03VFSIZugJQ/osZpDTmkgI8dZY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\asserts\\imgs\\tab.png"
+      "OriginalItemSpec": "wwwroot\\asserts\\images\\tab.png"
     },
     {
       "Identity": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\css\\site.css",
@@ -1564,8 +1564,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "n7yd3hq2qx",
-      "Integrity": "jSpCvyMxERLuV+U4z92kRz658rtqJr8bdBIaZGFO+LM=",
+      "Fingerprint": "64j3yt30wn",
+      "Integrity": "elYorTLK6ef6P6Uq/Ua3KT/tthKs9hXNzCE2QHv0UEs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2854,8 +2854,8 @@
   ],
   "Endpoints": [
     {
-      "Route": "asserts/imgs/Airpods-Head.fqfesksuto.png",
-      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\Airpods-Head.png",
+      "Route": "asserts/images/Airpods-Head.fqfesksuto.png",
+      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\images\\Airpods-Head.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2890,7 +2890,7 @@
         },
         {
           "Name": "label",
-          "Value": "asserts/imgs/Airpods-Head.png"
+          "Value": "asserts/images/Airpods-Head.png"
         },
         {
           "Name": "integrity",
@@ -2899,8 +2899,8 @@
       ]
     },
     {
-      "Route": "asserts/imgs/Airpods-Head.png",
-      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\Airpods-Head.png",
+      "Route": "asserts/images/Airpods-Head.png",
+      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\images\\Airpods-Head.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2936,8 +2936,8 @@
       ]
     },
     {
-      "Route": "asserts/imgs/Airpods-max.l1qpoy3gwy.png",
-      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\Airpods-max.png",
+      "Route": "asserts/images/Airpods-max.l1qpoy3gwy.png",
+      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\images\\Airpods-max.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2972,7 +2972,7 @@
         },
         {
           "Name": "label",
-          "Value": "asserts/imgs/Airpods-max.png"
+          "Value": "asserts/images/Airpods-max.png"
         },
         {
           "Name": "integrity",
@@ -2981,8 +2981,8 @@
       ]
     },
     {
-      "Route": "asserts/imgs/Airpods-max.png",
-      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\Airpods-max.png",
+      "Route": "asserts/images/Airpods-max.png",
+      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\images\\Airpods-max.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3018,8 +3018,8 @@
       ]
     },
     {
-      "Route": "asserts/imgs/chair.lyd5fcaki4.png",
-      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\chair.png",
+      "Route": "asserts/images/chair.lyd5fcaki4.png",
+      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\images\\chair.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3054,7 +3054,7 @@
         },
         {
           "Name": "label",
-          "Value": "asserts/imgs/chair.png"
+          "Value": "asserts/images/chair.png"
         },
         {
           "Name": "integrity",
@@ -3063,8 +3063,8 @@
       ]
     },
     {
-      "Route": "asserts/imgs/chair.png",
-      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\chair.png",
+      "Route": "asserts/images/chair.png",
+      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\images\\chair.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3100,8 +3100,8 @@
       ]
     },
     {
-      "Route": "asserts/imgs/gaming-head.frp5ae291e.png",
-      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\gaming-head.png",
+      "Route": "asserts/images/gaming-head.frp5ae291e.png",
+      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\images\\gaming-head.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3136,7 +3136,7 @@
         },
         {
           "Name": "label",
-          "Value": "asserts/imgs/gaming-head.png"
+          "Value": "asserts/images/gaming-head.png"
         },
         {
           "Name": "integrity",
@@ -3145,8 +3145,8 @@
       ]
     },
     {
-      "Route": "asserts/imgs/gaming-head.png",
-      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\gaming-head.png",
+      "Route": "asserts/images/gaming-head.png",
+      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\images\\gaming-head.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3182,8 +3182,8 @@
       ]
     },
     {
-      "Route": "asserts/imgs/hero.3dwaxrw8ml.jpg",
-      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\hero.jpg",
+      "Route": "asserts/images/hero.3dwaxrw8ml.jpg",
+      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\images\\hero.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3218,7 +3218,7 @@
         },
         {
           "Name": "label",
-          "Value": "asserts/imgs/hero.jpg"
+          "Value": "asserts/images/hero.jpg"
         },
         {
           "Name": "integrity",
@@ -3227,8 +3227,8 @@
       ]
     },
     {
-      "Route": "asserts/imgs/hero.jpg",
-      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\hero.jpg",
+      "Route": "asserts/images/hero.jpg",
+      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\images\\hero.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3264,8 +3264,8 @@
       ]
     },
     {
-      "Route": "asserts/imgs/keyboard.ge34wzjtvg.png",
-      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\keyboard.png",
+      "Route": "asserts/images/keyboard.ge34wzjtvg.png",
+      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\images\\keyboard.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3300,7 +3300,7 @@
         },
         {
           "Name": "label",
-          "Value": "asserts/imgs/keyboard.png"
+          "Value": "asserts/images/keyboard.png"
         },
         {
           "Name": "integrity",
@@ -3309,8 +3309,8 @@
       ]
     },
     {
-      "Route": "asserts/imgs/keyboard.png",
-      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\keyboard.png",
+      "Route": "asserts/images/keyboard.png",
+      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\images\\keyboard.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3346,8 +3346,8 @@
       ]
     },
     {
-      "Route": "asserts/imgs/monitor.pf3h8q72vj.png",
-      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\monitor.png",
+      "Route": "asserts/images/monitor.pf3h8q72vj.png",
+      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\images\\monitor.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3382,7 +3382,7 @@
         },
         {
           "Name": "label",
-          "Value": "asserts/imgs/monitor.png"
+          "Value": "asserts/images/monitor.png"
         },
         {
           "Name": "integrity",
@@ -3391,8 +3391,8 @@
       ]
     },
     {
-      "Route": "asserts/imgs/monitor.png",
-      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\monitor.png",
+      "Route": "asserts/images/monitor.png",
+      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\images\\monitor.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3428,8 +3428,8 @@
       ]
     },
     {
-      "Route": "asserts/imgs/tab.bqia65hxxt.png",
-      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\tab.png",
+      "Route": "asserts/images/tab.bqia65hxxt.png",
+      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\images\\tab.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3464,7 +3464,7 @@
         },
         {
           "Name": "label",
-          "Value": "asserts/imgs/tab.png"
+          "Value": "asserts/images/tab.png"
         },
         {
           "Name": "integrity",
@@ -3473,8 +3473,8 @@
       ]
     },
     {
-      "Route": "asserts/imgs/tab.png",
-      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\imgs\\tab.png",
+      "Route": "asserts/images/tab.png",
+      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\asserts\\images\\tab.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3510,13 +3510,13 @@
       ]
     },
     {
-      "Route": "css/site.css",
-      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\obj\\Debug\\net9.0\\compressed\\glpbpa8c64-n7yd3hq2qx.gz",
+      "Route": "css/site.64j3yt30wn.css",
+      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\obj\\Debug\\net9.0\\compressed\\glpbpa8c64-64j3yt30wn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001569858713"
+          "Quality": "0.001321003963"
         }
       ],
       "ResponseHeaders": [
@@ -3526,19 +3526,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "636"
+          "Value": "756"
         },
         {
           "Name": "ETag",
-          "Value": "\"pGZ04vG1OZ6AV/PUB55BtHDNMBLBaMu65LXiEuWrFYU=\""
+          "Value": "\"KPHnmJclYUPDtYekO1X1JzEbgij3H4rflTKtOslc7cg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 16:28:53 GMT"
+          "Value": "Mon, 23 Dec 2024 05:06:05 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -3554,18 +3554,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jSpCvyMxERLuV+U4z92kRz658rtqJr8bdBIaZGFO+LM=\""
+          "Value": "W/\"elYorTLK6ef6P6Uq/Ua3KT/tthKs9hXNzCE2QHv0UEs=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "64j3yt30wn"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-jSpCvyMxERLuV+U4z92kRz658rtqJr8bdBIaZGFO+LM="
+          "Value": "sha256-elYorTLK6ef6P6Uq/Ua3KT/tthKs9hXNzCE2QHv0UEs="
         }
       ]
     },
     {
-      "Route": "css/site.css",
+      "Route": "css/site.64j3yt30wn.css",
       "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3575,7 +3583,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1523"
+          "Value": "2273"
         },
         {
           "Name": "Content-Type",
@@ -3583,121 +3591,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jSpCvyMxERLuV+U4z92kRz658rtqJr8bdBIaZGFO+LM=\""
+          "Value": "\"elYorTLK6ef6P6Uq/Ua3KT/tthKs9hXNzCE2QHv0UEs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 16:28:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-jSpCvyMxERLuV+U4z92kRz658rtqJr8bdBIaZGFO+LM="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\obj\\Debug\\net9.0\\compressed\\glpbpa8c64-n7yd3hq2qx.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "636"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pGZ04vG1OZ6AV/PUB55BtHDNMBLBaMu65LXiEuWrFYU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 16:28:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-pGZ04vG1OZ6AV/PUB55BtHDNMBLBaMu65LXiEuWrFYU="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.n7yd3hq2qx.css",
-      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\obj\\Debug\\net9.0\\compressed\\glpbpa8c64-n7yd3hq2qx.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001569858713"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "636"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pGZ04vG1OZ6AV/PUB55BtHDNMBLBaMu65LXiEuWrFYU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 16:28:53 GMT"
+          "Value": "Mon, 23 Dec 2024 05:06:05 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"jSpCvyMxERLuV+U4z92kRz658rtqJr8bdBIaZGFO+LM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "n7yd3hq2qx"
+          "Value": "64j3yt30wn"
         },
         {
           "Name": "label",
@@ -3705,13 +3613,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jSpCvyMxERLuV+U4z92kRz658rtqJr8bdBIaZGFO+LM="
+          "Value": "sha256-elYorTLK6ef6P6Uq/Ua3KT/tthKs9hXNzCE2QHv0UEs="
         }
       ]
     },
     {
-      "Route": "css/site.n7yd3hq2qx.css",
-      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\css\\site.css",
+      "Route": "css/site.64j3yt30wn.css.gz",
+      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\obj\\Debug\\net9.0\\compressed\\glpbpa8c64-64j3yt30wn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3720,7 +3628,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1523"
+          "Value": "756"
         },
         {
           "Name": "Content-Type",
@@ -3728,56 +3636,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jSpCvyMxERLuV+U4z92kRz658rtqJr8bdBIaZGFO+LM=\""
+          "Value": "\"KPHnmJclYUPDtYekO1X1JzEbgij3H4rflTKtOslc7cg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 16:28:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "n7yd3hq2qx"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-jSpCvyMxERLuV+U4z92kRz658rtqJr8bdBIaZGFO+LM="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.n7yd3hq2qx.css.gz",
-      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\obj\\Debug\\net9.0\\compressed\\glpbpa8c64-n7yd3hq2qx.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "636"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pGZ04vG1OZ6AV/PUB55BtHDNMBLBaMu65LXiEuWrFYU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 21 Dec 2024 16:28:53 GMT"
+          "Value": "Mon, 23 Dec 2024 05:06:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3795,7 +3658,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "n7yd3hq2qx"
+          "Value": "64j3yt30wn"
         },
         {
           "Name": "label",
@@ -3803,7 +3666,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pGZ04vG1OZ6AV/PUB55BtHDNMBLBaMu65LXiEuWrFYU="
+          "Value": "sha256-KPHnmJclYUPDtYekO1X1JzEbgij3H4rflTKtOslc7cg="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\obj\\Debug\\net9.0\\compressed\\glpbpa8c64-64j3yt30wn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001321003963"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "756"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KPHnmJclYUPDtYekO1X1JzEbgij3H4rflTKtOslc7cg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 05:06:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"elYorTLK6ef6P6Uq/Ua3KT/tthKs9hXNzCE2QHv0UEs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-elYorTLK6ef6P6Uq/Ua3KT/tthKs9hXNzCE2QHv0UEs="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2273"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"elYorTLK6ef6P6Uq/Ua3KT/tthKs9hXNzCE2QHv0UEs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 05:06:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-elYorTLK6ef6P6Uq/Ua3KT/tthKs9hXNzCE2QHv0UEs="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "D:\\.NET\\InvenFlow-MVC\\obj\\Debug\\net9.0\\compressed\\glpbpa8c64-64j3yt30wn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "756"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KPHnmJclYUPDtYekO1X1JzEbgij3H4rflTKtOslc7cg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Dec 2024 05:06:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KPHnmJclYUPDtYekO1X1JzEbgij3H4rflTKtOslc7cg="
         }
       ]
     },

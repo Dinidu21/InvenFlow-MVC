@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InvenFlow-MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c96bc09adcbd41f363d09b537e0e22df0088874")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fc17541b3cbd7a8a4d6841da880ff179fd31b54")]
 [assembly: System.Reflection.AssemblyProductAttribute("InvenFlow-MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InvenFlow-MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

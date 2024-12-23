@@ -32,8 +32,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.NET/InvenFlow-MVC/Views/Items/ItemList-page-2.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcSXRlbUxpc3QtcGFnZS0yLmNzaHRtbA==
+[D:/.NET/InvenFlow-MVC/Views/Items/ItemsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcSXRlbXNMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/.NET/InvenFlow-MVC/Views/Shared/Error.cshtml]

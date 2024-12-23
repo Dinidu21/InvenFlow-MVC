@@ -9,6 +9,12 @@ namespace InvenFlow_MVC.Controllers
         {
             return View();
         }
+        
+        // GET : /ItemsList
+        public IActionResult ItemsList()
+        {
+            return View();
+        }
 
         // GET: Items/Welcome
         public string Welcome()
