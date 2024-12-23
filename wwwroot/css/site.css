@@ -60,7 +60,6 @@ box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
   transform: translateY(-10px);
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
   cursor: pointer;
-  border-color: dodgerblue;
 }
 
 .nav-item:hover {
@@ -84,13 +83,27 @@ box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
   background: radial-gradient(circle, rgba(55,33,171,1) 6%, rgba(63,94,251,1) 28%, rgba(53,99,181,1) 89%);
   -webkit-background-clip: text;
   color: transparent;
-  font-family: 'Poppins';
+  font-family: 'Poppins ExtraBold';
 }
 
 .headBtn{
-  color: var(--bs-light-text-emphasis);
+  color: var(--bs-white);
 }
 
 .headBtn:hover{
   color: lightgray;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.para{
+  color: var(--bs-gray-600);
+  font-family: 'Poppins';
 }
