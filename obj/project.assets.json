@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NET\\InvenFlow-MVC\\InvenFlow-MVC.csproj",
+      "projectUniqueName": "D:\\PL\\InvenFlow-MVC\\InvenFlow-MVC.csproj",
       "projectName": "InvenFlow-MVC",
-      "projectPath": "D:\\.NET\\InvenFlow-MVC\\InvenFlow-MVC.csproj",
+      "projectPath": "D:\\PL\\InvenFlow-MVC\\InvenFlow-MVC.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\.NET\\InvenFlow-MVC\\obj\\",
+      "outputPath": "D:\\PL\\InvenFlow-MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

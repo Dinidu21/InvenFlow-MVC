@@ -9,49 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = InvenFlow_MVC
 build_property.RootNamespace = InvenFlow_MVC
-build_property.ProjectDir = D:\.NET\InvenFlow-MVC\
+build_property.ProjectDir = D:\PL\InvenFlow-MVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\.NET\InvenFlow-MVC
+build_property.MSBuildProjectDirectory = D:\PL\InvenFlow-MVC
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/.NET/InvenFlow-MVC/Views/Home/Index.cshtml]
+[D:/PL/InvenFlow-MVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.NET/InvenFlow-MVC/Views/Home/Privacy.cshtml]
+[D:/PL/InvenFlow-MVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.NET/InvenFlow-MVC/Views/Items/Index.cshtml]
+[D:/PL/InvenFlow-MVC/Views/Items/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.NET/InvenFlow-MVC/Views/Items/ItemsList.cshtml]
+[D:/PL/InvenFlow-MVC/Views/Items/ItemsList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcSXRlbXNMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.NET/InvenFlow-MVC/Views/Shared/Error.cshtml]
+[D:/PL/InvenFlow-MVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.NET/InvenFlow-MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/PL/InvenFlow-MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.NET/InvenFlow-MVC/Views/_ViewImports.cshtml]
+[D:/PL/InvenFlow-MVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.NET/InvenFlow-MVC/Views/_ViewStart.cshtml]
+[D:/PL/InvenFlow-MVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.NET/InvenFlow-MVC/Views/Shared/_Layout.cshtml]
+[D:/PL/InvenFlow-MVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-lvl9he79el
