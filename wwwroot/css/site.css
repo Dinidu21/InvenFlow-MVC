@@ -88,6 +88,10 @@ box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
 
 .headBtn{
   color: var(--bs-white);
+  font-family: 'Poppins';
+  font-size: 1.2em;
+  text-decoration: none;
+  
 }
 
 .headBtn:hover{
@@ -166,7 +170,6 @@ box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
   font-family: 'Poppins';
 }
 
-/* Custom CSS for Premium Partners Section */
 .partners-container {
   background-color: #0a0a0a;
   position: relative;
@@ -255,4 +258,28 @@ box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
   .marquee-block {
       padding: 0 1rem;
   }
+}
+
+.services-card {
+  background-color: #5061f7;
+  color: white;
+  font-family: 'Segoe UI';
+  font-size: 1.2em;
+  font-weight: bold;
+  text-align: center;
+  margin: 10px;
+  transition: all 0.3s ease;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.services-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 8px 16px rgba(147, 147, 147, 0.2);
+}
+
+.text-small {
+  font-size: 0.8em;
+  font-weight: 400;
+  color: var(--bs-gray-600);
 }
